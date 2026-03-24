@@ -66,7 +66,7 @@ Navigate to **Dashboard** for the executive summary. The 4 KPI cards show headli
 **Executive summary dashboard:**
 
 ![ExecutiveSummary](ExecSummary.png)
-
+"C:\Users\ADMIN\Desktop\Desktop\Desktop\Desktop\Fiverr\Projects\Project 2\ExecSummary.png"
 ### Step 4 – Deep‑Dive with Measures
 The **Measures** sheet provides 28 KPIs with descriptions. Use these to answer client questions like:
 - *What’s my break‑even super return?*
