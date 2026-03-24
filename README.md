@@ -1,4 +1,4 @@
-# SuperSmart Mortgage Strategy Model
+# SuperSmart Mortgage Strategy Model 2.0
 
 **An Australian tax‑optimised mortgage repayment strategy model**
 
@@ -45,8 +45,16 @@ Go to the **Input** sheet. Update the blue‑text cells in sections ①–⑤:
 - Loan amount, interest rate, loan term  
 - Leave green‑text (formula) cells untouched.
 
+**Example input configuration:**
+
+![Mortgage Parameters](MorgageParameters.png)
+
 ### Step 2 – Verify Tax Calculation
 Check the **Tax Helper** sheet – confirm marginal rates and tax payable match the client’s latest tax assessment. The "WITH SuperSmart" section shows the reduced taxable income after salary sacrifice.
+
+**Tax engine output preview:**
+
+![Tax Engine](TaxEngine.png)
 
 ### Step 3 – Review the Dashboard
 Navigate to **Dashboard** for the executive summary. The 4 KPI cards show headline metrics. Scroll down for:
@@ -54,6 +62,10 @@ Navigate to **Dashboard** for the executive summary. The 4 KPI cards show headli
 - Cumulative tax saved
 - Super growth
 - Contribution breakdown
+
+**Executive summary dashboard:**
+
+![Executive Summary](Exec Summary.png)
 
 ### Step 4 – Deep‑Dive with Measures
 The **Measures** sheet provides 28 KPIs with descriptions. Use these to answer client questions like:
