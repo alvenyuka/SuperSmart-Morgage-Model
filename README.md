@@ -1,4 +1,4 @@
-# SuperSmart Mortgage Strategy Model 2.0
+# SuperSmart Mortgage Strategy Model
 
 **An Australian tax‑optimised mortgage repayment strategy model**
 
