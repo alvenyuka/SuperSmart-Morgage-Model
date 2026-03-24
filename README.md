@@ -65,7 +65,8 @@ Navigate to **Dashboard** for the executive summary. The 4 KPI cards show headli
 
 **Executive summary dashboard:**
 
-![Executive Summary](ExecSummary.png)
+<img width="1540" height="789" alt="ExecSummary" src="https://github.com/user-attachments/assets/ee777fe0-da03-46ae-9a8a-b417cb6433bc" />
+
 
 ### Step 4 – Deep‑Dive with Measures
 The **Measures** sheet provides 28 KPIs with descriptions. Use these to answer client questions like:
