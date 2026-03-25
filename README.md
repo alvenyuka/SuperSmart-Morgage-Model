@@ -67,7 +67,8 @@ Navigate to **Dashboard** for the executive summary. The 4 KPI cards show headli
 
 **Executive summary dashboard:**
 
-<img width="1540" height="789" alt="ExecSummary" src="https://github.com/user-attachments/assets/5fcf5a5a-bb26-41aa-beea-096247404114" />
+<img width="1539" height="866" alt="image" src="https://github.com/user-attachments/assets/eea10df5-60c5-4552-be79-b9a3fc9f1ea5" />
+
 
 
 
