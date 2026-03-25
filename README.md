@@ -106,7 +106,7 @@ Column D of the **Measures** sheet contains valid Power BI DAX measures. To use:
 
 ## 📐 Key Assumptions
 
-- **Tax brackets**: ATO 2024–25 rates (incl. Stage 3 tax cuts). Medicare levy 2%.
+- **Tax brackets**: ATO 2026–27 rates (incl. Stage 3 tax cuts). Medicare levy 2%.
 - **Concessional cap**: $32,500 base, indexed $2,500 every 2 years.
 - **Carry‑forward**: 5‑year rolling window. Available only if total super < $500K.
 - **Super returns**: 7% p.a. gross (before 15% earnings tax inside fund).
