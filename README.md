@@ -47,14 +47,16 @@ Go to the **Input** sheet. Update the blue‑text cells in sections ①–⑤:
 
 **Example input configuration:**
 
-![Mortgage Parameters](MorgageParameters.png)
+<img width="661" height="764" alt="Input" src="https://github.com/user-attachments/assets/54a21ac0-2c9b-46e1-a3dc-eb3cc18d74c3" />
+
 
 ### Step 2 – Verify Tax Calculation
 Check the **Tax Helper** sheet – confirm marginal rates and tax payable match the client’s latest tax assessment. The "WITH SuperSmart" section shows the reduced taxable income after salary sacrifice.
 
 **Tax engine output preview:**
 
-![Tax Engine](TaxEngine.png)
+<img width="485" height="662" alt="image" src="https://github.com/user-attachments/assets/a3da3fa4-7eab-4ccf-9365-b6f96f39a56e" />
+
 
 ### Step 3 – Review the Dashboard
 Navigate to **Dashboard** for the executive summary. The 4 KPI cards show headline metrics. Scroll down for:
@@ -65,7 +67,8 @@ Navigate to **Dashboard** for the executive summary. The 4 KPI cards show headli
 
 **Executive summary dashboard:**
 
-<img width="1540" height="789" alt="ExecSummary" src="https://github.com/user-attachments/assets/ee777fe0-da03-46ae-9a8a-b417cb6433bc" />
+<img width="1540" height="789" alt="ExecSummary" src="https://github.com/user-attachments/assets/5fcf5a5a-bb26-41aa-beea-096247404114" />
+
 
 
 ### Step 4 – Deep‑Dive with Measures
